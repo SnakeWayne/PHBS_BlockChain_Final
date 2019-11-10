@@ -1,0 +1,24 @@
+{
+  "name": "pet-shop",
+  "version": "1.0.0",
+  "description": "This box has all you need to get started with our [Pet Shop tutorial](http://truffleframework.com/tutorials/pet-shop).",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "builtin-modules": "^3.1.0",
+    "crypto": "^1.0.1",
+    "crypto-js": "^3.1.9-1",
+    "http": "0.0.0"
+  }
+}
